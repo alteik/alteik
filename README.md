@@ -7,4 +7,4 @@
 - 🎮 Currently developing **Discord bots** and **Minecraft cheats**.
 - 🔍 Learning **Reverse Engineering** and exploring how things work under the hood.
 - 🌐 Occasionally dabble in backend development.
-- 📚 Thinking of picking up **PHP** sometime (maybe, we'll see!).
+- 📚 Thinking of picking up **PHP** sometime (maybe).
